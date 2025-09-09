@@ -1,4 +1,5 @@
 <img width="606" height="339" alt="AI DHB" src="https://github.com/user-attachments/assets/c7538bd2-0adf-4729-afeb-54565e6a28cb" />
+
 📊 AI Tools Dashboard 2025
 
 This project is an interactive dashboard built to analyze and visualize the landscape of AI tools by their release year, valuation, popularity, and company-wise distribution.
